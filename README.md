@@ -30,8 +30,8 @@ Detects bobber movement on screen and clicks automatically, so you can fish AFK 
 
 ## Screenshot
 
-![UI](assets/ui.png)
-![Settings](assets/ui2.png)
+![UI](ui.png)
+![Settings](ui2.png)
 
 ---
 
