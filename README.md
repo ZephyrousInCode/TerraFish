@@ -1,4 +1,4 @@
-# TerraFish 🎣
+# TerraFish 
 
 Simple auto-fishing tool for Terraria.  
 Detects bobber movement on screen and clicks automatically, so you can fish AFK without constantly watching the game.
