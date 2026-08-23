@@ -53,4 +53,4 @@ Redesigned and updated by [ZephyrousInCode](https://github.com/ZephyrousInCode)
 
 ## Version
 
-`v1.0 beta`
+`v2.0.0 build`
