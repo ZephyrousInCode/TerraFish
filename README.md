@@ -30,8 +30,8 @@ Detects bobber movement on screen and clicks automatically, so you can fish AFK 
 
 ## Screenshots
 
-![UI](ui.png)
-![Settings](ui2.png)
+![UI](terrafishv2ui.png)
+![Settings](terrafishuiv2-settings.png)
 
 ---
 
