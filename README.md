@@ -39,7 +39,8 @@ Detects bobber movement on screen and clicks automatically, so you can fish AFK 
 
 - Windows only
 - Works best in windowed or borderless windowed mode
-- The app window can be set to always-on-top via the settings panel (`[ = ]`)
+- The app window can be set to always-on-top via the settings panel
+- Don't forget to turn off water reflection and background.
 
 ---
 
